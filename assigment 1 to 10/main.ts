@@ -45,6 +45,12 @@ let message : string = `${famousPersonName} once said ,"Pakistan's nuclear progr
  let divide : number = 20/2
  console.log(divide)
 
+//.....AS #8
+console.log(5+5) 
+console.log(20-10) 
+console.log(5*2) 
+console.log(20/2) 
+
  //......AS # 9
 
  let favouriteNumber :number = 2
